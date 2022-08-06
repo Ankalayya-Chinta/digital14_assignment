@@ -21,9 +21,9 @@ class PerformerEntity {
 
   String getThumbnail() {
     if (id % 2 == 0) {
-      return 'https://dwpinsider.com/blog/wp-content/uploads/2022/06/dwpinsideralhiweddings.jpg';
+      return 'https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI';
     } else {
-      return 'https://images.squarespace-cdn.com/content/v1/5b778e4d55b02c576cf5dd73/1617001092185-P7YO3WF5EMLANARD9IKS/Paradise+Cove+Oceanside+Wedding+Reception?format=1000w';
+      return 'https://i.picsum.photos/id/1071/3000/1996.jpg?hmac=rPo94Qr1Ffb657k6R7c9Zmfgs4wc4c1mNFz7ND23KnQ';
     }
   }
 }
