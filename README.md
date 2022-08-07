@@ -5,7 +5,7 @@ Flutter app for Digital14 using SeatGeek
 Works on iOS, Android and Web
 
 ## Architecture
-Clean Architecture
+Clean Architecture with BLoC
 
 ## Recommended Flutter Version
 v2.10.5
